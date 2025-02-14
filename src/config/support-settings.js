@@ -50,7 +50,7 @@ const supportConfig = {
             questionDescription: "Information regarding appeals & staff reports.",
             emote: "<:SCAppealsReports:1317651417330356234>",
     
-            answer: "You can join our [appeals server](https://discord.gg/nvmnbMvTxJ), and read the information there. Please remember that we take staff reports very seriously, and ensure you have proof of Admin Abuse / staff member you wish to report.",
+            answer: "You can join our [appeals server](https://discord.gg/QzQdHhbYdc), and read the information there. Please remember that we take staff reports very seriously, and ensure you have proof of Admin Abuse / staff member you wish to report.",
             //image: "",
             directSupport: false
         },

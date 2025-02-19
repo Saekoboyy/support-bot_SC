@@ -1,7 +1,7 @@
 const config = {
 
     presence: "online", // options: online, idle, dnd, invisible
-    status: "Tech_Guy07's permission management is cringe.",
+    status: "idk what to put here",
 
 
     // Colors!!!

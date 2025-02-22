@@ -57,7 +57,7 @@ const supportConfig = {
         {
             question: "How do I become a staff member ?",
             questionDescription: "",
-            emote: "<:SCStaff:1317651484137226260>",
+            //emote: "<:SCStaff:1317651484137226260>",
     
             answer: "To join our staff team you must fill out the provided application for one of our departments, these can be found in the application channel.",
             //image: "",
@@ -75,7 +75,7 @@ const supportConfig = {
         {
             question: "How do I partner with the Support Central group ?",
             //questionDescription: "",
-            emote: "<:SCPartnership:1317674103963914381>",
+            //emote: "<:SCPartnership:1317674103963914381>",
     
             answer: "To become a partner, Your community must have a fair moderation system & good communication. Your server must have at least 15 users & must be one month old. If your community meets these requirements, please push the button below so we can talk further.",
             //image: "",
@@ -84,7 +84,7 @@ const supportConfig = {
         {
             question: "I have a suggestion / Would like to meet with a server admin. ",
             //questionDescription: "",
-            emote: "<:SCQ:1317651516588556298>",
+            //emote: "<:SCQ:1317651516588556298>",
     
             answer: "You can make any suggestion in the suggestions channel, for meetings with Executives & Administration, Please purchase it from the economy store.",
             //image: "",
@@ -93,7 +93,7 @@ const supportConfig = {
 	  {
             question: "How do I become a supporter ?",
             questionDescription: "Saekoboyy the dev was here :3",
-            emote: "<:SCSupporter:1317678135306747905>",
+            //emote: "<:SCSupporter:1317678135306747905>",
     
             answer: "The supporter role is reserved for server boosters only, if you wish to boost your contributions are really appreciated. ♥️",
             //image: "",
